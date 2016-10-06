@@ -1,0 +1,11 @@
+v1.0
+===========================================
+* Kernel patched to version 3.4.112
+* Added I/O Schedulers (Zen, SIO, Simple, V(R), IOPS)
+* Added suport Dynamic Filesync 
+* Compiled with Linaro 4.9.4 optimized for Cortex A7
+===========================================
+
+v1.1
+===========================================
+* In progress...
